@@ -16,18 +16,18 @@ Install the below libraries using: easy_install <libraryname>
 * web.py
 
 Alternatively just use:
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 Running the python server
 -----
-Make sure you have python2 installed. Change the current directory to the AndroLabServer folder
+Make sure you have python3 installed. Change the current directory to the AndroLabServer folder
 
 	cd AndroLabServer
 
 Use the below syntax to run the HTTP server
 
-	python app.py
+	python3 app.py
 
 Use the below syntax to view the possible arguments
 
-	python app.py --help
+	python3 app.py --help
